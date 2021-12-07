@@ -1,2 +1,2 @@
-# Hotel Manager JS
- Hotel Management portal in HTML, CSS and JS
+# Hotel Manager
+ Hotel Management portal in HTML, CSS, PHP and JS
